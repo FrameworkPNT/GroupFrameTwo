@@ -12,7 +12,10 @@
         <module name="Alibaba" />
 
         <module name="Generic" />
+        <module name="HBO" />
+
         <module name="Webmd" />
+
       </profile>
     </annotationProcessing>
   </component>
