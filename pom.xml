@@ -11,9 +11,13 @@
     <modules>
         <module>Generic</module>
 
+        <module>CNN</module>
+
+
         <module>Webmd</module>
 
         <module>Alibaba</module>
+
 
     </modules>
 
